@@ -1,87 +1,64 @@
-<div align="center">
-<img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" width="100%" />
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://CodeWithFaham.io)
+<h1 align="center">Hi 👋, I'm Muhammad Faham</h1>
+<h3 align="center">Assalamualaikum My name is Muhammad Faham, I am proficient in HTML, CSS, and JavaScript, which enables me to create dynamic and interactive features. I also have practical experience in working with Content Management Systems (CMS) such as WordPress, including development and customization.</h3>
 
-<h1>Hi 👋, I'm <a href="https://CodeWithFaham.io">Muhammad Faham</a></h1>
-<h3>Creative Front-end Developer | WordPress Expert | Flutter Enthusiast</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D0E75B6%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DBuilding%2Binteractive%2BWeb%2BExperiences%3BWordPress%2BDevelopment%2Band%2BCustomization%3BCurrently%2Bmastering%2BFlutter%3BPassionate%2Babout%2BModern%2BUI/UX" alt="Typing SVG" />
-</p>
-
-<p>
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DCodeWithFaham%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat-square" alt="Profile Views" />
-</p>
-</div>
-
-🚀 About Me
-
-I am a proficient Front-end Developer dedicated to creating dynamic, interactive, and user-centric web applications. With expertise in HTML, CSS, and JavaScript, I bridge the gap between design and functionality. I also have deep practical experience in WordPress Development, helping businesses build robust online presence.
-
-🌱 Currently deep-diving into Flutter & Dart for cross-platform mobile excellence.
-
-💬 Ask me about Web Apps, Front-end Architecture, or WordPress optimization.
-
-📫 Reach me at: muhammadfahamabbasi@gmail.com
-
-⚡ Fun fact: Code runs on coffee, but my creativity runs on humor!
-
-🛠️ Languages and Tools
-
-<div align="left">
-<!-- Frontend -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JS" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Bootstrap-7952B3%3Fstyle%3Dfor-the-badge%26logo%3Dbootstrap%26logoColor%3Dwhite" alt="Bootstrap" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-
-
-
-
-
-<!-- Backend & DB -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PHP-777BB4%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite" alt="PHP" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/WordPress-21759B%3Fstyle%3Dfor-the-badge%26logo%3Dwordpress%26logoColor%3Dwhite" alt="WordPress" />
-
-
-
-
-
-<!-- Mobile & Tools -->
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GIT-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub" />
-</div>
-
-📊 GitHub Analytics
-
-<div align="center">
-<table border="0">
-<tr>
-<td>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DCodeWithFaham%26show_icons%3Dtrue%26locale%3Den%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" />
-</td>
-<td>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DCodeWithFaham%26show_icons%3Dtrue%26locale%3Den%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Stats" />
-</td>
-</tr>
-</table>
-</div>
-
-🤝 Connect with Me
-
-<div align="center">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/muhammad-faham-64a459334" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
-</a>
-<a href="https://www.instagram.com/faham_abbasi/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="mailto:muhammadfahamabbasi@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeWithFaham&label=Profile%20views&color=0e75b6&style=flat" alt="CodeWithFaham" /> </p>
 <a href="https://CodeWithFaham.github.io/My-Portfolio/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-000000%3Fstyle%3Dfor-the-badge%26logo%3DAbout.me%26logoColor%3Dwhite" alt="Portfolio" />
-</a>
-</div>
+    <img src="https://static.wixstatic.com/media/a27d24_aab4b1abedb64829a86c6066b83cbda9~mv2.gif" height="80" alt="Read More"/>
+  </a>
+
+       
+
+- 🌱 I’m currently learning **Flutter**
+
+- 💬 Ask me about **Web Developer , Front-end-developer, Wordpress developer**
+
+- 📫 How to reach me **muhammadfahamabbasi@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<div  dir="auto">
+  <a href="https://www.instagram.com/faham_abbasi/" rel="nofollow" style="color: rgb(206, 167, 212); text-decoration: underline;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo" style="max-width: 100%;">
+  </a>
+  <a href="muhamamdfahamabbasi@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" style="max-width: 100%;">
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-faham-64a459334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" style="max-width: 100%;">
+    </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+</div> </p>
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeWithFaham&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="CodeWithFaham" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeWithFaham&show_icons=true&locale=en&theme=tokyonight" alt="CodeWithFaham" /></p>
